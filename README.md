@@ -1,5 +1,5 @@
 # App
-<img src="https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/ic_launcher_APP.png" width="100"> 
+
  This app that promotes social distancing. The app detects the presence of other BLE handsets and devices and alarms the user to their proximity. The goal of this solution is to create a completely transparent application that can be used to save both lives and livelihoods.
 
 
