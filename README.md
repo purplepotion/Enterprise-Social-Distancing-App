@@ -10,7 +10,7 @@ We are actively working to create partnerships with people at MIT, UCSF, State o
 We all need to get back to work. This could help people do it more safely.
 
 
-### [Download on the Google Play Store](https://play.google.com/store/apps/details?id=app.onepointfive&hl=en_US)
+
 
 ### 1Point5 App Images
 ![Image of 1Point5 Onboarding 1](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/Onboarding-1-intro.png)
