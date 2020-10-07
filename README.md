@@ -1,16 +1,11 @@
-# 1Point5 App
+# App
 <img src="https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/ic_launcher_APP.png" width="100"> 
-Inspired by TraceTogether and COVID Symptom Tracker, and written in response to COVID19, 1PointFive is really focusing on education about social distancing.  1Point5 app is an app that promotes social distancing. The app detects the presence of other BLE handsets and devices and alarms the user to their proximity. The goal of this solution is to create a completely transparent application that can be used to save both lives and livelihoods.
+ This app that promotes social distancing. The app detects the presence of other BLE handsets and devices and alarms the user to their proximity. The goal of this solution is to create a completely transparent application that can be used to save both lives and livelihoods.
 
 
 We are a team of student developers. We want to help and are doing what we can. 
 
 
-
-
-### 1Point5 App Images
-![Image of 1Point5 Onboarding 1](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/Onboarding-1-intro.png)
-![Image of 1Point5 Onboarding 2](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/Onboarding-2-teams.png)![Image of 1Point5 Onboarding 3](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/Onboarding-3-device-detection.png)![Image of 1Point5 Onboarding iOS Pocket Mode](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/ios-store/Onboarding-3-pocket-6.5.png)![Image of 1Point5 Active Users](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/4_Active-users.png)![Image of 1Point5 History](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/History%20(1).png)![Image of 1Point5 Teams Android](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/Teams_android_1point5.jpg)![Image of 1Point5 App Paused](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/App%20Paused.png)![Image of 1Point5 App Settings](https://github.com/UNTILabs/SocialDistance/blob/develop/UN_1point5_v2_Release/play-store/App%20Settings.png)
 
 # Product Description and Vision
 ## Problem Statement
