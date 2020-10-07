@@ -12,8 +12,8 @@ We are a team of student developers. We want to help and are doing what we can.
 People need to get back to work eventually. Many essential workers continue to work through the COVID-19 global pandemic that we now find ourselves in. We need them not to get sick so our supply chain stays running and peoples' risk is minimized, and we can flatten the curve. We started building a contact tracing app for the Workforce Protection, and pivoted recently to help protect people and workforces. Contact tracing could easily be added on top of the social distancing features if necessary. See Roadmap below.
 
 ## Hypothesis
-Individuals can use 1Point5 for free in groups to help them maintain social distance. 
-Companies or families can deploy 1Point5 app along with other measures and help protect their employees during Covid-19 and beyond. Using BLE (Bluetooth Low Energy), the app coupled with virus testing, Contact Tracing, temperature checks, symptom tracking, sick-leave pay, and other workforce protection measures (which companies are starting to implement), will all help prevent the spread of the coronavirus and any future infections, help flatten the curve, and protect people and workers.
+Individuals can use this app in groups to help them maintain social distance. 
+Companies or families can deploy this app along with other measures and help protect their employees during Covid-19 and beyond. Using BLE (Bluetooth Low Energy), the app coupled with virus testing, Contact Tracing, temperature checks, symptom tracking, sick-leave pay, and other workforce protection measures (which companies are starting to implement), will all help prevent the spread of the coronavirus and any future infections, help flatten the curve, and protect people and workers.
 
 We think there is a use case for employers, individuals, public health organizations, and governments to use the app coupled with Contact Tracing efforts put out by offical health orgs that may be delivered through App Stores on the Google/Apple API.
 
@@ -60,7 +60,7 @@ The app can be deployed by an organization made available to be downloaded by in
 ### Roadmap
 * **Set Your Social Distance** -  High risk users can set thier social distance 'radious' to be more sensitive that the local health authorities recommended distance, so that they are notified for 'Too Close' app users sooner. 
 * **Data Storage for Employers** - Options could be added for users to opt in to sending location data for sessions that occured at the workplace if users wanted to contribute to mapping areas in the workplace where social distancing is not possible, per session.
-* **IOS Version** - IOS version is built, and we are working to get this through the Apple Play store now. Contact us if you would like a download to test.
+* **IOS Version** - IOS version is also being built, and we are working to get this through the Apple Play store now. Contact us if you would like a download to test.
 
 # Possible Future Versions 
 ## Add Contact Tracing
